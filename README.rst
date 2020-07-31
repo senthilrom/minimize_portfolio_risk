@@ -24,11 +24,17 @@ Usage
 Contributing
 ============
 
-Submit bugs and patches to the `public git repository <http://git.example.com/qtictactoe>`_.
+Submit bugs and patches to the `public git repository <https://github.com/senthilrom/Portfolio_Risk_Calculator>`_.
+
+Disclaimers
+===========
+
+1. Investing in stock markets are subjected to market risk. Do your own analysis before investing.
+2. Calculations and Data's are of pure mathematics and predictions are based on historical data.
+   Hence this software is not a proof to solid investments its a guide to understand your portfolio.
+
 
 Notes
 =====
 
-    A strange game.  The only winning move is not to play.
-
-    *—Joshua the AI, WarGames*
+    “Know what you own, and know why you own it.” – By Peter Lynch
