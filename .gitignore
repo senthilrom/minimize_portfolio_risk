@@ -1,0 +1,39 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Output & logs
+output/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Excel and temporary files
+*.xlsx
+*.xls
+~$*
+
+# Test and temp
+*.tmp
+*.bak
+*.swp
+
+# Git ignore backup
+*.orig
